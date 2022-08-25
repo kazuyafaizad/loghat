@@ -1,13 +1,37 @@
 [{
-  "word" : "Rengau",
+  "word" : "rengau",
   "phoenetic" : "ghe.ngau",
   "maksud" : "cakar",
   "contoh" : ["Kucin tu dok tak dok tiba-tiba mai rengau ceq taksat"]
 },
 {
-  "word" : "Nyerama",
+  "word" : "nyerama",
   "phoenetic" : "nye.gha.ma",
   "maksud" : "berebut-rebut untuk mendapatkan sesuatu",
   "contoh" : ["Lepaih viral ja kedai coq pisang mak nakan ceq tu, semua orang pakat nyerama nak pi beli"]
-}
+},
+ {
+  "word" : "ayaq",
+  "phoenetic" : "a.yaq",
+  "maksud" : "air",
+  "contoh" : []
+},
+ {
+  "word" : "lalu",
+  "phoenetic" : "la.lu",
+  "maksud" : "berselera",
+  "contoh" : []
+},
+ {
+  "word" : "ligan",
+  "phoenetic" : "li.gan",
+  "maksud" : "kejar",
+  "contoh" : []
+},
+ {
+  "word" : "bertuh",
+  "phoenetic" : "beghe.tuh",
+  "maksud" : "bersentuh, berlaga, berlanggar",
+  "contoh" : []
+},
 ]
